@@ -1,4 +1,4 @@
-# Dobyvatel
+# Dobyvatel / Conqueror
 An original microgame.
 
 ==== Credits ====<br>MtueanhM_CSCWA - Creator<br>CrazyMan - Lead Developer
