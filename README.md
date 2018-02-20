@@ -1,11 +1,7 @@
 # Dobyvatel
 An original microgame.
 
-==== Credits ====
-
-MtueanhM_CSCWA - Creator
-
-CrazyMan - Lead Developer
-
+==== Credits ====<br>MtueanhM_CSCWA - Creator<br>CrazyMan - Lead Developer
+<br>
 vlcik128 - Developer
 
